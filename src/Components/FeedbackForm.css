@@ -1,5 +1,6 @@
 nav{
-  background-color: #ed5484;
+  padding-top: 20px;
+  background-color: #0056b3;
   color: white;
   text-align: center;
   font-size: 30px;
@@ -12,7 +13,7 @@ nav{
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     font-family: Arial, sans-serif;
-    border:1px solid #ecb4c6;
+    border:1px solid #0056b3;
   }
   
   .feedback-form h2 {
@@ -42,7 +43,7 @@ nav{
   }
   
   .feedback-form button {
-    background-color: #ff0051;
+    background-color: #0056b3;
     color: #fff;
     border: none;
     border-radius: 4px;
@@ -53,7 +54,7 @@ nav{
   }
   
   .feedback-form button:hover {
-    background-color: #d94a77;
+    background-color: blue;
   }
   
   /* Media query for smaller screens */
